@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/anirudh-sharma-7b570a15b/" target="_blank" rel="noreferrer">Anirudh</a> 👋</h1>
 
-<!--
-**pinkcitykid/pinkcitykid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  Curious engineer on a journey of building, learning, and breaking things (constructively) 🚀
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  Welcome to my digital playground! I'm currently focused on sharpening my systems thinking, exploring new technologies, and building out cool side projects.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ What I'm Up To
+
+- 📚 Learning new data and analytics paradigms.
+- 💻 Writing clean code and trying out fun side projects.
+- 🤝 Open to collaboration on open-source projects!
+
+---
+
+### 🕹️ My GitHub Contribution Snake
+
+Feel free to stick around and watch the snake eat my contribution!
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="github-snake.svg" />
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  <i>"The best way to predict the future is to invent it."</i> — Alan Kay
+</p>
