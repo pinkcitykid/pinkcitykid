@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/anirudh-sharma-7b570a15b/" target="_blank" rel="noreferrer">Anirudh</a> 👋</h1>
+<h1 align="center">Hi there, I'm <a href="https://pinkcitykid.github.io/" target="_blank" rel="noreferrer">Anirudh</a> 👋</h1>
 
 <h3 align="center">
   Curious engineer on a journey of building, learning, and breaking things (constructively) 🚀
