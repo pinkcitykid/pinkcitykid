@@ -33,5 +33,5 @@ Feel free to stick around and watch the snake eat my contribution!
 ---
 
 <p align="center">
-  <i>"You know, for a mathematician, he did not have enough imagination. But he has become a poet and now he is fine."</i> — David Hilbert
+  <i>"You know, for a mathematician, he did not have enough imagination. But he has become a poet and now he is fine."</i> —&nbsp;David&nbsp;Hilbert
 </p>
